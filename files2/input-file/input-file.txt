@@ -1,0 +1,4 @@
+file_01.bin md5 8e43ba2fcc17e0c6d6e647e5a04ac388
+file_02.bin sha256 e9d3380b4eae131eb197f3e23ba9f39ffcaa7d4d7ab92733ab043c40275d89d1
+file_03.bin md5 6dc2d05c8374293fe20bc4c22c236e2e
+file_04.txt sha1 df3aaaa17df2c0bc2be60ba4b65053a23d15d10e
